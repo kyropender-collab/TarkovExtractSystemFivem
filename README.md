@@ -1,1 +1,1 @@
-Simple enough, feel free to go crazy with this script i just ask for credit, this is my first script.
+Simple enough, Please help build this as a fivem Commuinity il try to get to pull requests i might be slow as im new to github, this is my first script.
